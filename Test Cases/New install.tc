@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>as a new user i download fitco apps and install</description>
+   <name>New install</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a96f83d6-d75d-4840-8a08-6babdbee7280</testCaseGuid>
+</TestCaseEntity>
