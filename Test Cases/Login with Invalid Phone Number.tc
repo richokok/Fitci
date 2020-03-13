@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Login with Invalid Phone Number</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>dd03f39c-cefe-4c60-9e70-c323c9628ca6</testCaseGuid>
-</TestCaseEntity>
